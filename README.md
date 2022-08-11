@@ -1,5 +1,5 @@
 # Lumberjackjob For QBCore
-<a href="https://youtu.be/yvN3iEO2_-I">Preview</a>
+<a href="https://youtu.be/yvN3iEO2_-I" target="_blank">Preview</a>
 
 ### Requirements
  * <a href="https://github.com/qbcore-framework/qb-target">qb-target</a>
