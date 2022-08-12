@@ -156,9 +156,3 @@ RegisterNetEvent('aalbonn-lumberjack:menuseller', function(data)
         },
     })
 end)
-
-CreateThread(function()
-    for k, v in pairs (Config.Locations["seller"]) do
-        exports['aalbonn-base']:PedCreate('Wood Seller', 0x94562DD7, v.coords.x, v.coords.y, v.coords.z, v.coords.a)
-    end
-end)
